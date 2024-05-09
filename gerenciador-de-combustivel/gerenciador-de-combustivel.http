@@ -1,0 +1,6 @@
+@gerenciador_de_combustivel_HostAddress = http://localhost:5125
+
+GET {{gerenciador_de_combustivel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
